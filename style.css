@@ -1,5 +1,8 @@
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
+.w3-top {
+    background: ;
+}
 .header {
     margin-top: 4px;
     margin-left: 22px;
