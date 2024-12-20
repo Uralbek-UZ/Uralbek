@@ -5,7 +5,7 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 #menu_button{font-size:28px;padding-right:14px;text-decoration:none}
 #logotip{font-size:26px}
 #menu_button,#logotip{color:#0095B6;font-family:"Oswald";font-weight:700;-webkit-user-select:none;-ms-user-select:none;user-select:none}
-#w3-hide-large{
+.w3-hide-large{
     padding: 4px 18px;
-    background: re;
+    background: red;
 }
