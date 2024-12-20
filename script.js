@@ -1,7 +1,7 @@
-function open() {
+function ochish() {
   document.getElementById("menu").style.display = "block";
 }
 
-function close() {
+function yopish() {
     document.getElementById("menu").style.display = "none";
 }
