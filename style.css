@@ -16,11 +16,11 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 }
 
 #menu {
-    font-size: 28p;
+    font-size: 28px;
 }
 
 #logotip {
-    color: #0095B6;
+    
     font-size: 26px;
     font-family: "Oswald";
     font-weight: 700;
@@ -28,6 +28,9 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
     -ms-user-select: none;user-select: none;
 }
 
+#menu,#logotip {
+    
+}
 
 
 
