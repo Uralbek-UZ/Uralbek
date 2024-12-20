@@ -6,3 +6,6 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 #logotip{font-size:26px}
 #menu,#logotip{color:#0095B6;font-family:"Oswald";font-weight:700;-webkit-user-select:none;-ms-user-select:none;user-select:none}
 .menu{width:200px;height:100%;background:#fff;position:fixed!important;overflow:auto;z-index:1}
+@media {
+    
+}
