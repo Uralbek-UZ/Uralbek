@@ -2,6 +2,6 @@ html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 #top{position:fixed;top:0;width:100%;background:#fff;z-index:1;box-shadow:0 2px 2px 0 rgba(0,0,0,0.16),0 2px 4px 0 rgba(0,0,0,0.12)}
 #header{padding-top:4px;padding-left:22px;padding-bottom:5px}
-#menu{font-size:28px;padding-right:14px;text-decoration:none}
+#menu_button{font-size:28px;padding-right:14px;text-decoration:none}
 #logotip{font-size:26px}
-#menu,#logotip{color:#0095B6;font-family:"Oswald";font-weight:700;-webkit-user-select:none;-ms-user-select:none;user-select:none}
+#menu_button,#logotip{color:#0095B6;font-family:"Oswald";font-weight:700;-webkit-user-select:none;-ms-user-select:none;user-select:none}
