@@ -13,3 +13,6 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
     color: white;
     font-size: 14px;
 }
+.w3-padding-small {
+    padding-left: 14px;
+}
