@@ -1,7 +1,7 @@
 function open() {
-  document.getElementById("mySidebar").style.display = "block";
+  document.getElementById("menu").style.display = "block";
 }
 
 function close() {
-    document.getElementById("mySidebar").style.display = "none";
+    document.getElementById("menu").style.display = "none";
 }
