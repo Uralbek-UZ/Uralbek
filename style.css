@@ -6,10 +6,10 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 #logotip{font-size:26px}
 #menu_button,#logotip{color:#0095B6;font-family:"Oswald";font-weight:700;-webkit-user-select:none;-ms-user-select:none;user-select:none}
 .yopish{
+    margin-right: 12px;
+    float: right!important;
     padding: 2px 12px;
     background: red;
     color: white;
-    margin-right: 12px;
-    float: right!important;
-    
+    font-size: 18px;
 }
