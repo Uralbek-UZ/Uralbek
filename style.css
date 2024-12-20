@@ -20,16 +20,16 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 }
 
 #logotip {
-    
     font-size: 26px;
-    font-family: "Oswald";
-    font-weight: 700;
-    -webkit-user-select: none;
-    -ms-user-select: none;user-select: none;
 }
 
 #menu,#logotip {
-    
+    color: #0095B6;
+    font-family: "Oswald";
+    font-weight: 700;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
 
 
