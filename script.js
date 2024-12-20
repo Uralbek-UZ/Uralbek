@@ -1,4 +1,4 @@
-function w3_open() {
+function open() {
   document.getElementById("mySidebar").style.display = "block";
 }
 
