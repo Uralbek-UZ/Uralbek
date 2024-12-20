@@ -10,7 +10,9 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 }
 
 #header {
-    padding-top: ;
+    padding-top: 4.5px;
+    padding-left: 18px;
+    padding-bottom: 3;
 }
 
 
