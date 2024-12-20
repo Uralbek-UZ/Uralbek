@@ -3,3 +3,5 @@ function w3_open() {
 }
 
 function close() {
+    document.getElementById("mySidebar").style.display = "none";
+}
