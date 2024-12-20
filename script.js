@@ -7,5 +7,4 @@ function yopish() {
 }
 
 // HTML DOM
-
 document.getElementById("nashr").innerHTML = "(00157)";
